@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
+#### Name: [Vartik Srivastava](https://github.com/Vartik12)
+ - Place: Surat,Gujarat,India
+ - Bio: A competitive coder and good at photoshop
+ - GitHub: [Vartik12](https://github.com/Vartik12)
