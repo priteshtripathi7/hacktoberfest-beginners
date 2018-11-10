@@ -142,3 +142,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Emerging as Web Developer and aiming to become Competitive Coder 
  - GitHub: [subhamagrawal7](https://github.com/subhamagrawal7)
+
+#### Name: [Vartik Srivastava](https://github.com/Vartik12)
+ - Place: Surat,Gujarat,India
+ - Bio: A competitive coder and good at photoshop
+ - GitHub: [Vartik12](https://github.com/Vartik12)
+
